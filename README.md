@@ -4,6 +4,8 @@ Photonic neuromorphic classifier for dark trident event selection in MicroBooNE 
 
 ## Overview
 
+<p align="center"><img src="figures/photonic_system_schematic.png" width="80%"/></p>
+
 Wire-plane images (Y-plane, cosmic / NCπ⁰ / dark-trident signal) are projected onto a 150 µm InP network laser via a digital micromirror device (DMD). Competing lasing modes generate a high-dimensional spectral response, which is classified by a single logistic regression layer. This offers an alternative to GPU-based deep learning in low-data, low-power regimes.
 
 ## Scripts
