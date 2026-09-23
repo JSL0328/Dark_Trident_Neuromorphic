@@ -3,3 +3,6 @@
 *.npy
 *.pt
 __pycache__/
+cosmic*/
+*.zip
+run2_event*.png
